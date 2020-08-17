@@ -1,0 +1,17 @@
+{
+  "name": "filesharing",
+  "version": "1.0.0",
+  "description": "This repo contains the basic blockchain with publisher subscriber architecture and individual consensus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "pubnub": "^4.29.4"
+  }
+}
